@@ -31,10 +31,10 @@ gem 'bootstrap-sass'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
-# gem 'unicorn'
+# gem 'unicorn'cecwecwecw
 
 # Deploy with Capistrano
-# gem 'capistrano'
+# gem 'capistrano'cwecwec
 
 # To use debugger
 # gem 'debugger'
